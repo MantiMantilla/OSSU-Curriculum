@@ -2,7 +2,9 @@
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-Overview and tracking completion of the [OSSU curriculum](https://github.com/ossu/computer-science). All completed courses have their respective repos which have been nested here under `.\src\`.
+Overview and tracking completion of the [OSSU curriculum](https://github.com/ossu/computer-science). All completed courses have their respective repos which have been nested here under `.\src\` as submodules.
+
+[a license!](./LICENSE)
 
 ## Courses
 
@@ -10,15 +12,15 @@ The following is an exhaustive list of the courses I have completed or intend to
 
 ### Intro CS
 
-- [x] [Python for Everybody](./src/Intro CS/Py4E/)
-- [x] [Introduction to Computer Science and Programming Using Python](./src/Intro CS/Introduction-to-Computer-Science-edX/)
+- [x] [Python for Everybody](https://github.com/MantiMantilla/Py4E)
+- [x] [Introduction to Computer Science and Programming Using Python](https://github.com/MantiMantilla/Introduction-to-Computer-Science-edX)
 - [ ] CS50: Introduction to Computer Science `<-` `?`
 
 ### Core CS
 
 #### Core Programming
 
-- [ ] [How to Code Simple Data](./src/Core CS/How-to-Code-Simple-Data-edX/)
+- [ ] [How to Code Simple Data](https://github.com/MantiMantilla/How-to-Code-Simple-Data-edX/)
 - [ ] How to Code Complex Data
 - [ ] Programming Languages Part A
 - [ ] Programming Languages Part B
