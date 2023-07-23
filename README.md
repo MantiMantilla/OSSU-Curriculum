@@ -10,8 +10,8 @@ The following is an exhaustive list of the courses I have completed or intend to
 
 ### Intro CS
 
-[*] [Python for Everybody](./src/Intro CS/Py4E/)
-[*] [Introduction to Computer Science and Programming Using Python](./src/Intro CS/Introduction-to-Computer-Science-edX/)
+[\*] [Python for Everybody](./src/Intro CS/Py4E/)
+[\*] [Introduction to Computer Science and Programming Using Python](./src/Intro CS/Introduction-to-Computer-Science-edX/)
 [ ] CS50: Introduction to Computer Science `<-` `?`
 
 ### Core CS
