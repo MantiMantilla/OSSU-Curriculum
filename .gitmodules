@@ -1,0 +1,9 @@
+[submodule "src/Intro CS/Introduction-to-Computer-Science-edX"]
+	path = src/Intro CS/Introduction-to-Computer-Science-edX
+	url = https://github.com/MantiMantilla/Introduction-to-Computer-Science-edX
+[submodule "src/Intro CS/Py4E"]
+	path = src/Intro CS/Py4E
+	url = https://github.com/MantiMantilla/Py4E
+[submodule "src/Core CS/How-to-Code-Simple-Data-edX"]
+	path = src/Core CS/How-to-Code-Simple-Data-edX
+	url = https://github.com/MantiMantilla/How-to-Code-Simple-Data-edX
