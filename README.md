@@ -8,7 +8,7 @@ Overview and tracking completion of the [OSSU curriculum](https://github.com/oss
 
 ## Courses
 
-The following is an exhaustive list of the courses I have completed or intend to complete in linear order. Courses that don't belong to the Computer Science curriculum will be labeled as such with an arrow (`<-`). Courses which I might not take or decide to drop half-way, will be marked with a qustion mark (`?`).
+The following is an exhaustive list of the courses I have completed or intend to complete in linear order. Courses that don't belong to the Computer Science curriculum will be labeled as such with an arrow (`<-`). Courses which I might not take or decide to drop half-way, will be marked with a question mark (`?`).
 
 ### Intro CS
 
