@@ -2,9 +2,7 @@
 
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
-Overview and tracking completion of the [OSSU curriculum](https://github.com/ossu/computer-science). All completed courses have their respective repos which have been nested here under `.\src\` as submodules.
-
-[a license!](./LICENSE)
+Overview and tracking completion of the [OSSU curriculum](https://github.com/ossu/computer-science). All completed or ongoing courses have their respective repos which have been nested here under `.\src\` as submodules.
 
 ## Courses
 
