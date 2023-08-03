@@ -50,7 +50,7 @@ The following is an exhaustive list of the courses I have completed or intend to
 - [ ] Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 - [ ] Graph Search, Shortest Paths, and Data Structures
 - [ ] Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
-- [ ] Shortest Path Revisited, NP-Complete problems and What to do About Them
+- [ ] Shortest Path Revisited, NP-Complete Problems and What to do About Them
 
 #### Core Security
 
