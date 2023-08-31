@@ -43,6 +43,7 @@ The following is an exhaustive list of the courses I have completed or intend to
 - [ ] Nand to Tetris Part I
 - [ ] Nand to Tetris Part II
 - [ ] OSTEP
+- [ ] Linux From Scratch `<-` `?`
 - [ ] Computer Networking: a Top Down Approach
 
 #### Core Theory
