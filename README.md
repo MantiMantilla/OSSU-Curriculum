@@ -18,12 +18,13 @@ The following is an exhaustive list of the courses I have completed or intend to
 
 #### Core Programming
 
-- [ ] [How to Code Simple Data](https://github.com/MantiMantilla/How-to-Code-Simple-Data-edX/)
-- [ ] How to Code Complex Data
+- [ ] [Systematic Program Design](https://github.com/MantiMantilla/How-to-Code-Simple-Data-edX/) (formerly How to Code Simple Data and How to Code Complex Data)
+- [ ] Basic Java `<-`
+- [ ] Rustlings `<-`
 - [ ] Programming Languages Part A
 - [ ] Programming Languages Part B
 - [ ] Programming Languages Part C
-- [ ] Object Oriented Design
+- [ ] Object-Oriented Design
 - [ ] Design Patterns
 - [ ] Software Architecture
 
@@ -44,7 +45,7 @@ The following is an exhaustive list of the courses I have completed or intend to
 - [ ] Nand to Tetris Part II
 - [ ] OSTEP
 - [ ] Linux From Scratch `<-` `?`
-- [ ] Computer Networking: a Top Down Approach
+- [ ] Computer Networking: a Top-Down Approach
 
 #### Core Theory
 
@@ -64,25 +65,31 @@ The following is an exhaustive list of the courses I have completed or intend to
 
 - [ ] Databases: Modelling and Theory
 - [ ] Databases: Relational Databases and SQL
-- [ ] Databases: Semistructured Data
+- [ ] Databases: Semi-structured Data
 - [ ] Machine Learning
 - [ ] Computer Graphics
 - [ ] Software Engineering: Introduction
 
 #### Core Ethics
 - [ ] Ethics, Technology and Engineering
-- [ ] Introduction to Intellectual Propery
+- [ ] Introduction to Intellectual Property
 - [ ] Data Privacy Fundamentals
+
+#### MLOps | Machine Learning Operations Specialization
+- [ ] Python Essentials for MLOps `<-` `?`
+- [ ] DevOps, DataOps, MLOps `<-`
+- [ ] MLOps Platforms: Amazon SageMaker and Azure ML `<-`
+- [ ] MLOps Tools: MLflow and Hugging Face `<-`
 
 ### Advanced CS
 
-As per the curriculum, students need not take every course from Advanced CS, but should take every course relevant to their field of choice. The following are included temptatively.
+As per the curriculum, students need not take every course from Advanced CS, but should take every course relevant to their field of choice. The following are included tentatively.
 
 #### Advance Programming
 
 - [ ] Parallel Programming
 - [ ] Compilers
-- [ ] Introduciton to Haskell
+- [ ] Introduction to Haskell
 - [ ] Learn Prolog Now!
 - [ ] Software Debugging
 - [ ] Software Testing
@@ -116,7 +123,7 @@ As per the curriculum, students need not take every course from Advanced CS, but
 
 -  [ ] `?`
 
-This would conclude an equivalent undergraduate in Computer Science. I have taken many other courses relevant to computer science (mostly from my BSc. and MSc. in industrial engineering) that I didn't bother to include because thay predate this commitment to formally educating myself in these topics.
+This would conclude an equivalent undergraduate in Computer Science. I have taken many other courses relevant to computer science (mostly from my B.S. and M.S. in industrial engineering) that I didn't bother to include because they predate this commitment to formally educating myself in these topics.
 
 ### Advanced Extras
 
