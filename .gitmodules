@@ -7,3 +7,9 @@
 [submodule "src/Core CS/How-to-Code-Simple-Data-edX"]
 	path = src/Core CS/How-to-Code-Simple-Data-edX
 	url = https://github.com/MantiMantilla/How-to-Code-Simple-Data-edX
+[submodule "src/Core CS/Core_Programming/How-to-Code-Simple-Data-edX"]
+	path = src/Core CS/Core_Programming/How-to-Code-Simple-Data-edX
+	url = git@github.com:MantiMantilla/How-to-Code-Simple-Data-edX
+[submodule "src/Core CS/MLOps_Specialization/DevOps_DataOps_MLOps_Coursera"]
+	path = src/Core CS/MLOps_Specialization/DevOps_DataOps_MLOps_Coursera
+	url = git@github.com:MantiMantilla/DevOps_DataOps_MLOps_Coursera
