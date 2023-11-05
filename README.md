@@ -76,8 +76,8 @@ The following is an exhaustive list of the courses I have completed or intend to
 - [ ] Data Privacy Fundamentals
 
 #### MLOps | Machine Learning Operations Specialization
-- [ ] Python Essentials for MLOps `<-` `?`
-- [ ] DevOps, DataOps, MLOps `<-`
+- [x] [Python Essentials for MLOps]() `<-` `?`
+- [ ] [DevOps, DataOps, MLOps](https://github.com/MantiMantilla/DevOps_DataOps_MLOps_Coursera) `<-`
 - [ ] MLOps Platforms: Amazon SageMaker and Azure ML `<-`
 - [ ] MLOps Tools: MLflow and Hugging Face `<-`
 
