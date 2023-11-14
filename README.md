@@ -18,7 +18,7 @@ The following is an exhaustive list of the courses I have completed or intend to
 
 #### Core Programming
 
-- [ ] [Systematic Program Design](https://github.com/MantiMantilla/How-to-Code-Simple-Data-edX/) (formerly How to Code Simple Data and How to Code Complex Data)
+- [ ] [Systematic Program Design](https://github.com/MantiMantilla/Systematic-Program-Design/) (formerly How to Code Simple Data and How to Code Complex Data)
 - [ ] Basic Java `<-`
 - [ ] Rustlings `<-`
 - [ ] Programming Languages Part A
