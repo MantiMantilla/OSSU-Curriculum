@@ -20,6 +20,7 @@ The following is an exhaustive list of the courses I have completed or intend to
 
 - [ ] [Systematic Program Design](https://github.com/MantiMantilla/Systematic-Program-Design/) (formerly How to Code Simple Data and How to Code Complex Data)
 - [ ] Basic Java `<-`
+- [ ] Spring Boot FreeCodeCamp (as a compliment for the Basic Java course) `<-`
 - [ ] Rustlings `<-`
 - [ ] Programming Languages Part A
 - [ ] Programming Languages Part B
