@@ -7,9 +7,9 @@
 [submodule "src/Core CS/MLOps_Specialization/DevOps_DataOps_MLOps_Coursera"]
 	path = src/Core CS/MLOps_Specialization/DevOps_DataOps_MLOps_Coursera
 	url = git@github.com:MantiMantilla/DevOps_DataOps_MLOps_Coursera
-[submodule "src/Core CS/Core_Programming/Systematic-Progam-Design"]
-	path = src/Core CS/Core_Programming/Systematic-Progam-Design
-	url = git@github.com:MantiMantilla/Systematic-Progam-Design
+[submodule "src/Core CS/Core_Programming/Systematic-Program-Design"]
+	path = src/Core CS/Core_Programming/Systematic-Program-Design
+	url = git@github.com:MantiMantilla/Systematic-Program-Design
 [submodule "src/Core CS/Core_Programming/Microservice-Architecture-Python-Kubernetes"]
 	path = src/Core CS/Core_Programming/Microservice-Architecture-Python-Kubernetes
 	url = git@github.com:MantiMantilla/globant-interview-challenge
