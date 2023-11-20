@@ -10,3 +10,6 @@
 [submodule "src/Core CS/Core_Programming/Systematic-Progam-Design"]
 	path = src/Core CS/Core_Programming/Systematic-Progam-Design
 	url = git@github.com:MantiMantilla/Systematic-Progam-Design
+[submodule "src/Core CS/Core_Programming/Microservice-Architecture-Python-Kubernetes"]
+	path = src/Core CS/Core_Programming/Microservice-Architecture-Python-Kubernetes
+	url = git@github.com:MantiMantilla/globant-interview-challenge
